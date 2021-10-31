@@ -119,7 +119,7 @@ class _MyAppState extends State<MyApp>{
 
 
     final HttpLink httpLink = HttpLink(
-       'http://192.168.43.99:4000/graphql',
+       'http://your-ip-address/graphql',
     );
 
     final AuthLink authLink = AuthLink(
