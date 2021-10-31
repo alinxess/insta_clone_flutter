@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+[![Output video](assets/images/out_thumb.png)](https://drive.google.com/file/d/12TyxsefCmty0KxsG186VolmUmeSNJ6dR/view?usp=sharing) </br>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
